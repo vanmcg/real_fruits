@@ -1,0 +1,7 @@
+kiwi
+orange
+grapes
+persimmon
+pears
+raspberries
+blueberries
