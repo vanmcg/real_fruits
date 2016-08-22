@@ -5,3 +5,6 @@ persimmon
 pears
 raspberries
 blueberries
+Melons
+Peaches
+Pluots
